@@ -1,0 +1,6 @@
+{
+  "name": "perf-boost",
+  "version": "0.1.0",
+  "type": "preload-native",
+  "entry": "libperf_boost.so"
+}
